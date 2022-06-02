@@ -39,7 +39,7 @@ const handleStart = () => {
       seconds = 0;
       minutes++;
     }
-  }, 200);
+  }, 1000);
 };
 
 const handleStop = () => {
